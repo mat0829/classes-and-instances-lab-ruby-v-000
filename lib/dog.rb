@@ -2,7 +2,7 @@
 class Dog
 
 end
-# Creating 3 new instances of the dog class and assigning them to local variables
+# Creating 3 new instances of the Dog class and assigning them to local variables
 fido = Dog.new
 fido
 snoopy = Dog.new
