@@ -2,8 +2,8 @@
 class Dog
 
 end
-
-fido = Dog.new  
+# Creating 3 new instances of the dog class
+fido = Dog.new
 
 snoopy = Dog.new
 
