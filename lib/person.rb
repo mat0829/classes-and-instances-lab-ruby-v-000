@@ -3,4 +3,8 @@ class Person
 
 end
 
-# Creating 2 new instances of the Person class
+# Creating 2 new instances of the Person class and assigning them local variables
+adele_goldberg = Person.new
+adele_goldberg
+
+
